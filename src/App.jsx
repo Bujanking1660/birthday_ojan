@@ -7,6 +7,7 @@ function App() {
 
   return (
     <div>
+      {/* coba coba */}
         <ScrollEffect/>
     </div>)
 }
